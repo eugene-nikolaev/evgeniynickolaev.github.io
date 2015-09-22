@@ -178,6 +178,13 @@
     }
 }
 
+@media screen and (min-width: 700px) {
+  .post-list {
+    min-height: 500px;
+  }
+}
+
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
