@@ -4,9 +4,7 @@ title:  "Настройка прав для подключения програ�
 date:   2015-10-07 11:20:50
 categories: avr usbasp linux
 ---
-Дано: Linux Mint 17.2.
-
-При попытке прошивки attiny13 из Arduino IDE при помощи USBasp возникала ошибка:
+При попытке прошивки attiny13 из Arduino IDE (Linux Mint 17.2) при помощи USBasp возникала ошибка:
 
 ```
 avrdude: Warning: cannot open USB device: Permission denied
