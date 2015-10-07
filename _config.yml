@@ -1,8 +1,8 @@
 # Site settings
-title: Bad Circuits - блог по электронике
+title: Bad Circuits - блог по микроконтроллерам, схемотехнике, электронике
 email: eug.nikolaev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Блог про электронику и схемотехнику, цифровую и не очень
+  Блог про микроконтроллеры, электронику и схемотехнику, цифровую и не очень
 markdown: redcarpet
 highlighter: "pygments"
 baseurl: "" # the subpath of your site, e.g. /blog/
