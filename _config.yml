@@ -1,5 +1,5 @@
 # Site settings
-title: Bad Circuits - блог по микроконтроллерам, схемотехнике, электронике
+title: Bad Circuits - блог по микроконтроллерам (AVR, Arduino)
 email: eug.nikolaev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Блог про микроконтроллеры, электронику и схемотехнику, цифровую и не очень
