@@ -12,7 +12,7 @@ categories: tools
 
 После довольно продолжительного поиска, на ebay нашелся вот такой набор из 7 ключей:
 
-[7-PC-Mini-Cranked-Wrench-3-mm-5-5-mm-model-engineering-hobby](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338185917&mpre=www.ebay.com%2Fitm%2F162653716647)
+[7-PC-Mini-Cranked-Wrench-3-mm-5-5-mm-model-engineering-hobby](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338185917&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F7-pc-Mini-gekr%C3%B6pften-Schraubenschl%C3%BCssel-3-mm-5-5-mm-Model-Engineering-Hobby%2F162653716647)
 
 ![Набор гаечных ключей малых размеров](/assets/2017/09/21/01_small_wrench_kit.jpg)
 
