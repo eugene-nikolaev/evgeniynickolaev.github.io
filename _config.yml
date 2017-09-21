@@ -4,6 +4,6 @@ email: eug.nikolaev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Блог про микроконтроллеры, электронику и схемотехнику, цифровую и не очень
 markdown: redcarpet
-highlighter: "rouge"
+highlighter: "pygments"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://badcircuits.com" # the base hostname & protocol for your site
