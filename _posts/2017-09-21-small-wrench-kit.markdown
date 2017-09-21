@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "Набор рожковых гаечных ключей малых размеров"
 date:   2017-09-21
 categories: tools
