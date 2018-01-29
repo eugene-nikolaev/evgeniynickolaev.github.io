@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Краткий обзор лабораторного источника питания QJE 3500H"
 date:   2018-01-29
-categories: repair
+categories: tools
 ---
 
 Приобрел лабораторный источник питания QJE3500H в ЧипДипе.
