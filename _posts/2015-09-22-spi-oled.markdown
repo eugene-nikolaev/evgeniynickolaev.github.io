@@ -4,9 +4,9 @@ title:  "Подключение нестандартного китайског�
 date:   2015-09-22 09:59:03
 categories: oled spi arduino
 ---
-Хочу поделиться историей подключения китайского OLED-дисплея:
+Хочу поделиться историей подключения китайского OLED-дисплея с ebay:
 <br>
-[A1 1pcs 7pin 0.96"White OLED module 0.96 OLED New 128X64 OLED LCD LED Display Module 0.96" SPI Communicate](http://s.click.aliexpress.com/e/EmyzJuR)
+[0.96" I2C IIC SPI Serial 128X64 White OLED LCD LED Display Module for Arduino](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338190330&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2F0-96-I2C-IIC-SPI-Serial-128X64-White-OLED-LCD-LED-Display-Module-for-Arduino-%2F263097814635)
 
 Купил его, ориентируясь только на цвет свечения, тогда еще не знал, что подключаться они могут различными способами.
 
@@ -34,7 +34,7 @@ IIC: R1, R6, R7, R8
 Для начала решил подключить его по SPI, с I2C я еще дела не имел, пока что мне не нужны дополнительные грабли. Тем более, что *R3* был уже впаян, *R1* и *R8* отсутствовали, а возиться не хотелось.
 Берем клон Arduino Nano:
 
-[1PCS MINI USB Nano V3.0 ATmega328P CH340G 5V 16M Micro-controller board for arduino NANO 328P NANO 3.0](http://s.click.aliexpress.com/e/2VfeiQN)
+[MINI USB Nano V3.0 ATmega328P CH340G 5V 16M Micro-controller board for Arduino](https://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338190330&mpre=http%3A%2F%2Fwww.ebay.com%2Fitm%2FMINI-USB-Nano-V3-0-ATmega328P-CH340G-5V-16M-Micro-controller-board-for-Arduino-%2F381374550571)
 
 ![клон Arduino Nano](/assets/03_funduino_nano.jpg)
 
