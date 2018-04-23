@@ -42,11 +42,13 @@ $on-laptop:        800px;
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+    "base",
+    "layout",
+    "syntax-highlighting"
 ;
+
+.error-404 {
+	font-size: 150%;    
+}
