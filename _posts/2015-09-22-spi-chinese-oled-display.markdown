@@ -3,6 +3,7 @@ layout: post
 title:  "Подключение нестандартного китайского OLED-дисплея по SPI"
 date:   2015-09-22 09:59:03
 categories: oled spi arduino
+redirect_from: "oled/spi/arduino/2015/09/22/spi-oled.html"
 ---
 Хочу поделиться историей подключения китайского OLED-дисплея с ebay:
 <br>
